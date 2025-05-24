@@ -1,1 +1,1 @@
-Resume_parser with ChatGpt
+Building a Resume_parser with ChatGpt
