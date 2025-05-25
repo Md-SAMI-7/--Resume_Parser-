@@ -1,0 +1,40 @@
+
+John Doe  
+123 Main Street  
+Cityville, ST 12345  
+Phone: (123) 456-7890  
+Email: johndoe@example.com  
+
+Objective:  
+To obtain a software engineering position at a reputable company where I can utilize my skills in development and problem-solving.
+
+Education:  
+Bachelor of Technology in Computer Science  
+XYZ University, Cityville, 2022  
+CGPA: 8.7/10
+
+Skills:  
+- Programming Languages: Python, Java, C++  
+- Web Development: HTML, CSS, JavaScript, Flask  
+- Tools: Git, VS Code, Postman  
+
+Experience:  
+Software Development Intern  
+ABC Tech Solutions, Cityville — Jan 2022 to June 2022  
+- Developed internal tools using Flask and Python  
+- Worked on bug fixes and performance improvements
+
+Projects:  
+1. Personal Portfolio Website – Built using HTML, CSS, JS  
+2. To-Do App with Flask – REST API with CRUD operations
+
+Certifications:  
+- Python for Everyone – Coursera  
+- Web Development Bootcamp – Udemy  
+
+Languages:  
+- English (Fluent)  
+- Spanish (Basic)  
+
+References:  
+Available upon request
