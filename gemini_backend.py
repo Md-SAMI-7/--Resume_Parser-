@@ -2,12 +2,13 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import google.generativeai as genai
 import os
-from dotnev import load_dotenv
+from dotenv import load_dotenv
 import fitz  #For PDF
 import docx  #For DOCX
 import openpyxl  #For Excel
 
 load_dotenv()
+load_dotenv("api_storing.env")
 
 app = Flask(__name__)
 CORS(app)
